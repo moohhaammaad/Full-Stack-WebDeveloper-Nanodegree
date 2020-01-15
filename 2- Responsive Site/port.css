@@ -1,0 +1,44 @@
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-top: 20px;
+}
+
+.margin {
+    margin-top: auto;
+}
+
+.row {
+    padding-bottom: 40px;
+}
+
+main {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* blue light color*/
+.backgroundcolor {
+    background-color: #33bebe;
+}
+
+h1 {
+    font-family: "Times New Roman", Times, serif;
+    font-weight: bold;
+}
+h3 {
+    font-style: oblique;
+}
+
+h4 {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+p {
+    margin-top:10px;
+}
