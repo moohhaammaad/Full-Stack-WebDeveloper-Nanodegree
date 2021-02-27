@@ -25,7 +25,7 @@ Bugs and errors
 ---------------
 if you have any error please make sure you execute our prerequisites and 
 Guidelines correctly. if you still facing a problem contact with us 
-on this mail : `midomedo33@gmail.com `
+on this mail : `mohamedahmed.mmes@gmail.com `
 
 
 Built With 
